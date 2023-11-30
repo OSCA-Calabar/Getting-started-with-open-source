@@ -29,7 +29,7 @@
 ### **I**
 
 ### **J**
-
+[JOSEPH EDET](https://github.com/Joebasshd)
 ### **K**
 [KENNEDY EKANEM](https://github.com/KenEkanem)
 ### **L**
