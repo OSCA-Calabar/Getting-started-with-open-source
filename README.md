@@ -47,7 +47,7 @@ git clone https://github.com/YOUR_USERNAME/Members.git
 ```
 - Navigate to the cloned folder
 ```bash
-cd Members
+cd Getting-started-with-open-source
 ```
 - Create a new branch by doing
 ```bash
@@ -72,6 +72,8 @@ cd Members
 ```bash
   git push origin <name-of-your-branch>
 ```
+
+### On GitHub
 - Make a new pull request - the third option after code and issues under the  repository name or click the green 'compare and pull request button'. Also see [how to make a pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request)
 - Click 'make a new pull request' button
 
